@@ -249,7 +249,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "270px",
+              "size": "237px",
               "type": "left"
             },
             {
@@ -329,7 +329,7 @@
             "show": true,
             "size": {
               "height": 0,
-              "width": 270
+              "width": 237
             },
             "title": "文档树",
             "type": "file"
