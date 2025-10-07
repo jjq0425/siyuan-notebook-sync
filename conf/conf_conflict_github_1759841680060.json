@@ -249,7 +249,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "168px",
+              "size": "270px",
               "type": "left"
             },
             {
@@ -257,8 +257,20 @@
                 {
                   "children": [
                     {
-                      "children": {},
-                      "instance": "Tab"
+                      "active": true,
+                      "activeTime": "1759841616191",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251007193801-53839s5",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251007193801-uaf80wv",
+                        "rootId": "20251007193801-53839s5"
+                      },
+                      "docIcon": "1fad5",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "测试"
                     }
                   ],
                   "height": "",
