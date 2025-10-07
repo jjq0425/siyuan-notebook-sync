@@ -1,0 +1,31 @@
+{
+  "local-dialogposition": {
+    "dialog-setting": {
+      "height": 658,
+      "left": 80,
+      "top": 36,
+      "width": 1280
+    }
+  },
+  "local-fileposition": {
+    "20200923234011-ieuun1p": {
+      "endId": "20240508005305-nb98gz5",
+      "focusEnd": 136,
+      "focusId": "20230428162634-1qlp7r8",
+      "focusStart": 136,
+      "rootId": "20200923234011-ieuun1p",
+      "scrollTop": 584,
+      "startId": "20241125224615-dwfqru1"
+    },
+    "20200924101106-19z4kaa": {
+      "endId": "20230419153621-c80sc5z",
+      "focusEnd": 65,
+      "focusId": "20230419153621-ekwrodk",
+      "focusStart": 65,
+      "rootId": "20200924101106-19z4kaa",
+      "scrollTop": 896,
+      "startId": "20210118101709-5a7bzl0"
+    }
+  },
+  "local-filespaths": []
+}

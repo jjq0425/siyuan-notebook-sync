@@ -161,7 +161,7 @@
     "tagOpenMarker": "#",
     "tagCloseMarker": "#",
     "fileAnnotationRefMode": 0,
-    "pandocBin": "",
+    "pandocBin": "D:\\mycode\\sy-workspace\\temp\\pandoc\\bin\\pandoc.exe",
     "markdownYFM": false,
     "inlineMemo": false,
     "pdfFooter": "%page / %pages",
@@ -188,10 +188,10 @@
         "super": false
       },
       "d3": {
-        "nodeSize": 16,
+        "nodeSize": 15,
         "linkWidth": 8,
         "lineOpacity": 0.36,
-        "centerStrength": 0.015,
+        "centerStrength": 0.01,
         "collideRadius": 600,
         "collideStrength": 0.08,
         "linkDistance": 400,
@@ -249,7 +249,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "270px",
+              "size": "232px",
               "type": "left"
             },
             {
@@ -257,110 +257,20 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1759837010744",
+                      "active": true,
+                      "activeTime": "1759841515427",
                       "children": {
                         "action": "cb-get-scroll",
-                        "blockId": "20200923234011-ieuun1p",
+                        "blockId": "20200812220555-lj3enxa",
                         "instance": "Editor",
                         "mode": "wysiwyg",
-                        "notebookId": "20210808180117-6v0mkxr",
-                        "rootId": "20200923234011-ieuun1p"
+                        "notebookId": "20210808180117-czj9bvb",
+                        "rootId": "20200812220555-lj3enxa"
                       },
                       "docIcon": "1f389",
                       "instance": "Tab",
                       "pin": false,
-                      "title": "Please Start Here"
-                    },
-                    {
-                      "activeTime": "1759837041751",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20251007193707-lmowos4",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-6v0mkxr",
-                        "rootId": "20251007193707-lmowos4"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "测试"
-                    },
-                    {
-                      "active": true,
-                      "activeTime": "1759838201488",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20251007193801-53839s5",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20251007193801-uaf80wv",
-                        "rootId": "20251007193801-53839s5"
-                      },
-                      "docIcon": "1fad5",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "测试"
-                    },
-                    {
-                      "activeTime": "1759836548871",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20200924101106-19z4kaa",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-6v0mkxr",
-                        "rootId": "20200924101106-19z4kaa"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "What is a Content Block"
-                    },
-                    {
-                      "activeTime": "1759836553869",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20200924093441-ft2rhps",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-6v0mkxr",
-                        "rootId": "20200924093441-ft2rhps"
-                      },
-                      "docIcon": "1f4f0",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Formatting elements"
-                    },
-                    {
-                      "activeTime": "1759836588628",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20210808180303-axh6q1d",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-6v0mkxr",
-                        "rootId": "20210808180303-axh6q1d"
-                      },
-                      "docIcon": "1f3a8",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Custom Appearance"
-                    },
-                    {
-                      "activeTime": "1759836910182",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20200924100110-vcg96wy",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20210808180117-6v0mkxr",
-                        "rootId": "20200924100110-vcg96wy"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "Icon"
+                      "title": "请从这里开始"
                     }
                   ],
                   "height": "",
@@ -431,7 +341,7 @@
             "show": true,
             "size": {
               "height": 0,
-              "width": 270
+              "width": 232
             },
             "title": "文档树",
             "type": "file"
@@ -544,31 +454,40 @@
   "readonly": false,
   "localIPs": [
     "127.0.0.1",
-    "192.168.2.42",
-    "10.129.242.238",
-    "172.17.0.1",
-    "172.18.0.1",
+    "192.168.219.1",
+    "192.168.203.1",
+    "10.10.10.32",
+    "10.3.221.132",
+    "169.254.233.151",
+    "169.254.69.251",
+    "169.254.96.51",
+    "169.254.50.126",
     "[::1]",
-    "[2001:da8:201:2940:f816:3eff:fe09:2cf0]",
-    "[fe80::f816:3eff:fe51:abd9]",
-    "[fe80::f816:3eff:fe09:2cf0]",
-    "[fe80::f4e0:40ff:fe91:8c0]"
+    "[240c:c001:1020:89e6:fa38:643e:8425:5afb]",
+    "[240c:c001:1020:89e6:45a0:e3b4:c6c3:64e6]",
+    "[fe80::cb6d:3065:5d96:9ae5]",
+    "[fe80::b52b:dcc5:5b3c:d6b0]",
+    "[fe80::440a:d4f3:326e:fbbe]",
+    "[fe80::5f52:3fb3:1f77:5a31]",
+    "[fe80::c6a0:14af:581d:83e2]",
+    "[fe80::5ddb:bcd8:9800:9c02]",
+    "[fe80::111f:a9ed:9f34:be22]"
   ],
-  "accessAuthCode": "419875",
+  "accessAuthCode": "",
   "system": {
-    "id": "lznqsh49qoc0",
-    "name": "2cd011280914",
+    "id": "430d41c5-ab02-4a36-8d34-45884d58f23d",
+    "name": "jjq",
     "kernelVersion": "3.3.4",
-    "os": "linux",
-    "osPlatform": "alpine",
-    "container": "docker",
+    "os": "windows",
+    "osPlatform": "Microsoft Windows 11 Home China",
+    "container": "std",
     "isMicrosoftStore": false,
     "isInsider": false,
-    "homeDir": "/home/siyuan",
-    "workspaceDir": "/siyuan/workspace/",
-    "appDir": "/opt/siyuan",
-    "confDir": "/siyuan/workspace/conf",
-    "dataDir": "/siyuan/workspace/data",
+    "homeDir": "C:\\Users\\QQ419",
+    "workspaceDir": "D:\\mycode\\sy-workspace",
+    "appDir": "D:\\TOOLS\\siyuan\\resources",
+    "confDir": "D:\\mycode\\sy-workspace\\conf",
+    "dataDir": "D:\\mycode\\sy-workspace\\data",
     "networkServe": false,
     "networkProxy": {
       "scheme": "",
@@ -1330,7 +1249,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.3.4 docker/linux",
+      "apiUserAgent": "SiYuan/3.3.4 std/windows",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1340,17 +1259,17 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 0,
+    "treeCount": 70,
     "cTreeCount": 100,
-    "blockCount": 0,
+    "blockCount": 2787,
     "cBlockCount": 5000,
-    "dataSize": 36864,
+    "dataSize": 7643435,
     "cDataSize": 104857600,
-    "assetsSize": 0,
+    "assetsSize": 4048488,
     "cAssetsSize": 104857600
   },
   "api": {
-    "token": "devr5ryvdv4b81oz"
+    "token": "qblper1bqsr971zb"
   },
   "repo": {
     "key": null,
@@ -1359,17 +1278,11 @@
     "retentionIndexesDaily": 2
   },
   "publish": {
-    "enable": true,
+    "enable": false,
     "port": 6808,
     "auth": {
       "enable": true,
-      "accounts": [
-        {
-          "username": "viewer",
-          "password": "tempView",
-          "memo": "临时授权"
-        }
-      ]
+      "accounts": []
     }
   },
   "openHelp": false,
