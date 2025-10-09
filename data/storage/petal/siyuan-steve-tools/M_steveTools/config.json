@@ -1,0 +1,11 @@
+{
+  "code": 404,
+  "msg": "stat /siyuan/workspace/data/storage/petal/siyuan-steve-tools/M_steveTools/config.json: no such file or directory",
+  "data": null,
+  "stats_last_sent_+sync": "2025-10-07",
+  "stats_last_sent_": "2025-10-07",
+  "stats_last_sent_+ai": "2025-10-07",
+  "stats_last_sent_+handwriting+ai": "2025-10-07",
+  "stats_last_sent_+handwriting+ai+dida": "2025-10-07",
+  "stats_last_sent_+calendar+handwriting+ai+dida": "2025-10-07"
+}

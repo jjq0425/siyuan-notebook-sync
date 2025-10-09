@@ -2,22 +2,30 @@
   "logLevel": "debug",
   "appearance": {
     "mode": 0,
-    "modeOS": true,
+    "modeOS": false,
     "darkThemes": [
       {
         "name": "midnight",
         "label": "midnight（默认主题）"
+      },
+      {
+        "name": "Savor",
+        "label": "写味（Savor）"
       }
     ],
     "lightThemes": [
       {
         "name": "daylight",
         "label": "daylight（默认主题）"
+      },
+      {
+        "name": "Savor",
+        "label": "写味（Savor）"
       }
     ],
     "themeDark": "midnight",
-    "themeLight": "daylight",
-    "themeVer": "1.0.9",
+    "themeLight": "Savor",
+    "themeVer": "5.9.4",
     "icons": [
       "ant",
       "material"
@@ -27,7 +35,7 @@
     "codeBlockThemeLight": "github",
     "codeBlockThemeDark": "base16/dracula",
     "lang": "zh_CN",
-    "themeJS": false,
+    "themeJS": true,
     "closeButtonBehavior": 0,
     "hideStatusBar": false
   },
@@ -249,7 +257,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "237px",
+              "size": "0px",
               "type": "left"
             },
             {
@@ -257,8 +265,35 @@
                 {
                   "children": [
                     {
-                      "children": {},
-                      "instance": "Tab"
+                      "activeTime": "1759976504674",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251007211011-ho811rj",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251007205919-795bxin",
+                        "rootId": "20251007211011-ho811rj"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "未命名"
+                    },
+                    {
+                      "active": true,
+                      "activeTime": "1760001001224",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251009102118-ov7p86j",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251009102117-xr53nsl",
+                        "rootId": "20251009102118-ov7p86j"
+                      },
+                      "docIcon": "1f427",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "八股"
                     }
                   ],
                   "height": "",
@@ -326,10 +361,10 @@
             "hotkey": "⌥1",
             "hotkeyLangId": "fileTree",
             "icon": "iconFiles",
-            "show": true,
+            "show": false,
             "size": {
               "height": 0,
-              "width": 237
+              "width": 236
             },
             "title": "文档树",
             "type": "file"
@@ -444,13 +479,12 @@
     "127.0.0.1",
     "192.168.2.42",
     "10.129.242.238",
-    "172.17.0.1",
     "172.18.0.1",
+    "172.17.0.1",
     "[::1]",
     "[2001:da8:201:2940:f816:3eff:fe09:2cf0]",
     "[fe80::f816:3eff:fe51:abd9]",
-    "[fe80::f816:3eff:fe09:2cf0]",
-    "[fe80::f4e0:40ff:fe91:8c0]"
+    "[fe80::f816:3eff:fe09:2cf0]"
   ],
   "accessAuthCode": "419875",
   "system": {
@@ -1238,13 +1272,13 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 0,
+    "treeCount": 10,
     "cTreeCount": 100,
-    "blockCount": 0,
+    "blockCount": 665,
     "cBlockCount": 5000,
-    "dataSize": 36864,
+    "dataSize": 23297564,
     "cDataSize": 104857600,
-    "assetsSize": 0,
+    "assetsSize": 8033942,
     "cAssetsSize": 104857600
   },
   "api": {

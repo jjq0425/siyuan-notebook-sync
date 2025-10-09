@@ -8,5 +8,35 @@
 		"js": "",
 		"css": "",
 		"i18n": null
+	},
+	{
+		"name": "siyuan-plugin-picgo",
+		"displayName": "PicGo图床",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "sy-tomato-plugin",
+		"displayName": "番茄工具箱",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": false,
+		"js": "",
+		"css": "",
+		"i18n": null
+	},
+	{
+		"name": "siyuan-typst-plugin",
+		"displayName": "Typst 插件",
+		"enabled": true,
+		"incompatible": false,
+		"disabledInPublish": true,
+		"js": "",
+		"css": "",
+		"i18n": null
 	}
 ]

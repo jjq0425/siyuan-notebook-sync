@@ -1,0 +1,6 @@
+{
+  "code": 404,
+  "msg": "stat /siyuan/workspace/data/storage/petal/siyuan-steve-tools/M_calendar/config.json: no such file or directory",
+  "data": null,
+  "userGroups": "[{\"id\":\"external\",\"name\":\"外部日历\",\"icon\":\"📅\",\"viewIds\":[\"qqcalendar\",\"icsSubscription\"],\"isExpanded\":true,\"isHidden\":false},{\"id\":\"special\",\"name\":\"特殊功能\",\"icon\":\"⚡\",\"viewIds\":[\"lifelog\",\"recurring\"],\"isExpanded\":true,\"isHidden\":false}]"
+}
