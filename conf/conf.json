@@ -257,7 +257,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "232px",
+              "size": "0px",
               "type": "left"
             },
             {
@@ -281,10 +281,10 @@
                     },
                     {
                       "active": true,
-                      "activeTime": "1760266540937",
+                      "activeTime": "1760279718587",
                       "children": {
-                        "action": "cb-get-all",
-                        "blockId": "20251009153935-3my4s8g",
+                        "action": "cb-get-scroll",
+                        "blockId": "20251009102118-ov7p86j",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20251009102117-xr53nsl",
@@ -373,7 +373,7 @@
             "hotkey": "⌥2",
             "hotkeyLangId": "outline",
             "icon": "iconAlignCenter",
-            "show": true,
+            "show": false,
             "size": {
               "height": 0,
               "width": 232
@@ -1274,9 +1274,9 @@
   "stat": {
     "treeCount": 10,
     "cTreeCount": 100,
-    "blockCount": 1097,
+    "blockCount": 1031,
     "cBlockCount": 5000,
-    "dataSize": 24195163,
+    "dataSize": 24197672,
     "cDataSize": 104857600,
     "assetsSize": 8894395,
     "cAssetsSize": 104857600

@@ -163,6 +163,8 @@
     }
   ],
   "local-fontstyles": [
+    "backgroundColor​var(--b3-font-background1)",
+    "color​",
     "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
     "color​var(--b3-font-color4)",
     "style1​var(--b3-card-success-background)​var(--b3-card-success-color)",
