@@ -163,12 +163,12 @@
     }
   ],
   "local-fontstyles": [
+    "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
+    "color​var(--b3-font-color4)",
     "style1​var(--b3-card-success-background)​var(--b3-card-success-color)",
     "style1​var(--b3-card-warning-background)​var(--b3-card-warning-color)",
-    "color​var(--b3-font-color4)",
     "color​var(--b3-font-color7)",
-    "backgroundColor​var(--b3-font-background8)",
-    "style1​var(--b3-card-error-background)​var(--b3-card-error-color)"
+    "backgroundColor​var(--b3-font-background8)"
   ],
   "local-plugin-docks": {
     "siyuan-newledge": {},

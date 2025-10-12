@@ -257,7 +257,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "0px",
+              "size": "232px",
               "type": "left"
             },
             {
@@ -281,10 +281,10 @@
                     },
                     {
                       "active": true,
-                      "activeTime": "1760259641312",
+                      "activeTime": "1760266540937",
                       "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20251009102118-ov7p86j",
+                        "action": "cb-get-all",
+                        "blockId": "20251009153935-3my4s8g",
                         "instance": "Editor",
                         "mode": "wysiwyg",
                         "notebookId": "20251009102117-xr53nsl",
@@ -373,7 +373,7 @@
             "hotkey": "⌥2",
             "hotkeyLangId": "outline",
             "icon": "iconAlignCenter",
-            "show": false,
+            "show": true,
             "size": {
               "height": 0,
               "width": 232
@@ -1274,11 +1274,11 @@
   "stat": {
     "treeCount": 10,
     "cTreeCount": 100,
-    "blockCount": 730,
+    "blockCount": 1097,
     "cBlockCount": 5000,
-    "dataSize": 23307856,
+    "dataSize": 24195163,
     "cDataSize": 104857600,
-    "assetsSize": 8033942,
+    "assetsSize": 8894395,
     "cAssetsSize": 104857600
   },
   "api": {
