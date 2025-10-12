@@ -281,7 +281,7 @@
                     },
                     {
                       "active": true,
-                      "activeTime": "1760256882860",
+                      "activeTime": "1760259641312",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20251009102118-ov7p86j",
@@ -364,7 +364,7 @@
             "show": false,
             "size": {
               "height": 0,
-              "width": 236
+              "width": 232
             },
             "title": "文档树",
             "type": "file"
@@ -1274,9 +1274,9 @@
   "stat": {
     "treeCount": 10,
     "cTreeCount": 100,
-    "blockCount": 671,
+    "blockCount": 730,
     "cBlockCount": 5000,
-    "dataSize": 23299311,
+    "dataSize": 23307856,
     "cDataSize": 104857600,
     "assetsSize": 8033942,
     "cAssetsSize": 104857600
