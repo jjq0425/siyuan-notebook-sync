@@ -169,7 +169,7 @@
     "tagOpenMarker": "#",
     "tagCloseMarker": "#",
     "fileAnnotationRefMode": 0,
-    "pandocBin": "",
+    "pandocBin": "D:\\mycode\\sy-workspace\\temp\\pandoc\\bin\\pandoc.exe",
     "markdownYFM": false,
     "inlineMemo": false,
     "pdfFooter": "%page / %pages",
@@ -196,10 +196,10 @@
         "super": false
       },
       "d3": {
-        "nodeSize": 16,
+        "nodeSize": 15,
         "linkWidth": 8,
         "lineOpacity": 0.36,
-        "centerStrength": 0.015,
+        "centerStrength": 0.01,
         "collideRadius": 600,
         "collideStrength": 0.08,
         "linkDistance": 400,
@@ -257,7 +257,7 @@
               ],
               "direction": "tb",
               "instance": "Layout",
-              "size": "0px",
+              "size": "232px",
               "type": "left"
             },
             {
@@ -265,23 +265,8 @@
                 {
                   "children": [
                     {
-                      "activeTime": "1759976504674",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20251007211011-ho811rj",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20251007205919-795bxin",
-                        "rootId": "20251007211011-ho811rj"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "未命名"
-                    },
-                    {
                       "active": true,
-                      "activeTime": "1760279718587",
+                      "activeTime": "1760541763982",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20251009102118-ov7p86j",
@@ -294,6 +279,36 @@
                       "instance": "Tab",
                       "pin": false,
                       "title": "八股"
+                    },
+                    {
+                      "activeTime": "1760541763440",
+                      "children": {
+                        "action": "cb-get-scroll",
+                        "blockId": "20251015131612-yw7vknm",
+                        "instance": "Editor",
+                        "mode": "wysiwyg",
+                        "notebookId": "20251009102117-xr53nsl",
+                        "rootId": "20251015131612-yw7vknm"
+                      },
+                      "docIcon": "",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "大模型相关的手撕"
+                    },
+                    {
+                      "activeTime": "1760281235676",
+                      "children": {
+                        "customModelData": {
+                          "cardType": "all",
+                          "id": ""
+                        },
+                        "customModelType": "siyuan-card",
+                        "instance": "Custom"
+                      },
+                      "icon": "iconRiffCard",
+                      "instance": "Tab",
+                      "pin": false,
+                      "title": "间隔重复"
                     }
                   ],
                   "height": "",
@@ -361,7 +376,7 @@
             "hotkey": "⌥1",
             "hotkeyLangId": "fileTree",
             "icon": "iconFiles",
-            "show": false,
+            "show": true,
             "size": {
               "height": 0,
               "width": 232
@@ -477,30 +492,40 @@
   "readonly": false,
   "localIPs": [
     "127.0.0.1",
-    "192.168.2.42",
-    "10.129.242.238",
-    "172.18.0.1",
-    "172.17.0.1",
+    "192.168.219.1",
+    "192.168.203.1",
+    "10.10.10.90",
+    "10.7.58.13",
+    "169.254.233.151",
+    "169.254.69.251",
+    "169.254.96.51",
+    "169.254.50.126",
     "[::1]",
-    "[2001:da8:201:2940:f816:3eff:fe09:2cf0]",
-    "[fe80::f816:3eff:fe51:abd9]",
-    "[fe80::f816:3eff:fe09:2cf0]"
+    "[240c:c001:1015:db6e:5a14:edd6:9f5f:d8ff]",
+    "[240c:c001:1015:db6e:14e6:ba31:e2f1:b5e5]",
+    "[fe80::cb6d:3065:5d96:9ae5]",
+    "[fe80::b52b:dcc5:5b3c:d6b0]",
+    "[fe80::440a:d4f3:326e:fbbe]",
+    "[fe80::5f52:3fb3:1f77:5a31]",
+    "[fe80::c6a0:14af:581d:83e2]",
+    "[fe80::5ddb:bcd8:9800:9c02]",
+    "[fe80::111f:a9ed:9f34:be22]"
   ],
-  "accessAuthCode": "419875",
+  "accessAuthCode": "",
   "system": {
-    "id": "lznqsh49qoc0",
-    "name": "2cd011280914",
+    "id": "430d41c5-ab02-4a36-8d34-45884d58f23d",
+    "name": "jjq",
     "kernelVersion": "3.3.4",
-    "os": "linux",
-    "osPlatform": "alpine",
-    "container": "docker",
+    "os": "windows",
+    "osPlatform": "Microsoft Windows 11 Home China",
+    "container": "std",
     "isMicrosoftStore": false,
     "isInsider": false,
-    "homeDir": "/home/siyuan",
-    "workspaceDir": "/siyuan/workspace/",
-    "appDir": "/opt/siyuan",
-    "confDir": "/siyuan/workspace/conf",
-    "dataDir": "/siyuan/workspace/data",
+    "homeDir": "C:\\Users\\QQ419",
+    "workspaceDir": "D:\\mycode\\sy-workspace",
+    "appDir": "D:\\TOOLS\\siyuan\\resources",
+    "confDir": "D:\\mycode\\sy-workspace\\conf",
+    "dataDir": "D:\\mycode\\sy-workspace\\data",
     "networkServe": false,
     "networkProxy": {
       "scheme": "",
@@ -1262,7 +1287,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.3.4 docker/linux",
+      "apiUserAgent": "SiYuan/3.3.4 std/windows",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1272,17 +1297,17 @@
     "petalDisabled": false
   },
   "stat": {
-    "treeCount": 10,
+    "treeCount": 3,
     "cTreeCount": 100,
-    "blockCount": 1031,
+    "blockCount": 422,
     "cBlockCount": 5000,
-    "dataSize": 24197672,
+    "dataSize": 20041617,
     "cDataSize": 104857600,
-    "assetsSize": 8894395,
+    "assetsSize": 6858691,
     "cAssetsSize": 104857600
   },
   "api": {
-    "token": "devr5ryvdv4b81oz"
+    "token": "qblper1bqsr971zb"
   },
   "repo": {
     "key": null,
@@ -1295,13 +1320,7 @@
     "port": 6808,
     "auth": {
       "enable": true,
-      "accounts": [
-        {
-          "username": "viewer",
-          "password": "tempView",
-          "memo": "临时授权"
-        }
-      ]
+      "accounts": []
     }
   },
   "openHelp": false,

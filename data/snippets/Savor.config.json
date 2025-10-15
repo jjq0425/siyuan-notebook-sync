@@ -1,0 +1,17 @@
+{
+    "code": 404,
+    "msg": "CreateFile D:\\mycode\\sy-workspace\\data\\snippets\\Savor.config.json: The system cannot find the path specified.",
+    "data": null,
+    "buttonSavor-light": "1",
+    "buttonsalt": "0",
+    "buttonsugar": "0",
+    "buttonforest": "0",
+    "buttonflower": "0",
+    "buttonwind": "0",
+    "conceal挖空": "0",
+    "typewriterMode": "0",
+    "标题点标识": "1",
+    "sidebarMemo": "0",
+    "sidebarMemoEnabled": "0",
+    "officialFontColors": "0"
+}

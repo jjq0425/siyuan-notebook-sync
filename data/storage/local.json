@@ -7,6 +7,12 @@
     "widget": "0"
   },
   "local-dialogposition": {
+    "dialog-emojis": {
+      "height": 426,
+      "left": 78,
+      "top": 354,
+      "width": 368
+    },
     "dialog-setting": {
       "height": 658,
       "left": 80,
@@ -15,165 +21,84 @@
     }
   },
   "local-fileposition": {
-    "20200813004931-q4cu8na": {
-      "endId": "20230419153207-l40wjv2",
-      "focusEnd": 0,
-      "focusId": "20210118100623-i00rgj0",
-      "focusStart": 0,
-      "rootId": "20200813004931-q4cu8na",
-      "scrollTop": 0,
-      "startId": "20210118100623-i00rgj0"
+    "20200812220555-lj3enxa": {
+      "endId": "20240508001403-j8ceveg",
+      "focusEnd": 1,
+      "focusId": "20240507235944-4gxc97l",
+      "focusStart": 1,
+      "rootId": "20200812220555-lj3enxa",
+      "scrollTop": 1149,
+      "startId": "20241125224159-8zf3bos"
     },
-    "20200813093015-u6bopdt": {
-      "endId": "20230415111923-37gvzqk",
-      "focusEnd": 0,
-      "focusId": "20210428213311-2hv9zwx",
-      "focusStart": 0,
-      "rootId": "20200813093015-u6bopdt",
-      "scrollTop": 0,
-      "startId": "20210428213311-2hv9zwx"
-    },
-    "20200923234011-ieuun1p": {
-      "endId": "20240508005305-nb98gz5",
-      "focusEnd": 136,
-      "focusId": "20230428162634-1qlp7r8",
-      "focusStart": 136,
-      "rootId": "20200923234011-ieuun1p",
-      "scrollTop": 622,
-      "startId": "20241125224615-dwfqru1"
-    },
-    "20200924093441-ft2rhps": {
-      "endId": "20211213122348-4djtm9e",
-      "focusEnd": 7,
-      "focusId": "20220916200111-4swvak0",
-      "focusStart": 7,
-      "rootId": "20200924093441-ft2rhps",
-      "scrollTop": 215,
-      "startId": "20210104091509-sg4pt12"
-    },
-    "20200924100110-vcg96wy": {
-      "endId": "20251007193130-t3oi0ri",
-      "focusEnd": 0,
-      "focusId": "20251007193130-t3oi0ri",
-      "focusStart": 0,
-      "rootId": "20200924100110-vcg96wy",
-      "scrollTop": 2355,
-      "startId": "20230418095541-fpmceu9"
-    },
-    "20200924101106-19z4kaa": {
-      "endId": "20230419153621-c80sc5z",
-      "focusEnd": 304,
-      "focusId": "20210118104710-2sb91b3",
-      "focusStart": 304,
-      "rootId": "20200924101106-19z4kaa",
-      "scrollTop": 896,
-      "startId": "20210118101709-5a7bzl0"
-    },
-    "20201117101902-2ewjjum": {
-      "endId": "20210630172118-iu2hsz3",
-      "focusEnd": 0,
-      "focusId": "20210111224435-y1fesd1",
-      "focusStart": 0,
-      "rootId": "20201117101902-2ewjjum",
-      "scrollTop": 0,
-      "startId": "20210111224435-y1fesd1"
-    },
-    "20210808180303-axh6q1d": {
-      "endId": "20240508004341-6pgvimp",
-      "focusEnd": 2,
-      "focusId": "20240508004341-z4ugefi",
-      "focusStart": 2,
-      "rootId": "20210808180303-axh6q1d",
-      "scrollTop": 0,
-      "startId": "20240508004341-z4ugefi"
-    },
-    "20230405155631-leo4vc6": {
-      "endId": "20230405171539-llfg8mm",
-      "focusEnd": 0,
-      "focusId": "20230405155631-0xw341e",
-      "focusStart": 0,
-      "rootId": "20230405155631-leo4vc6",
-      "scrollTop": 0,
-      "startId": "20230405155631-0xw341e"
-    },
-    "20230428153709-hioyy5l": {
-      "endId": "20230428162527-zil49lr",
-      "focusEnd": 0,
-      "focusId": "20230428153709-sc7nv54",
-      "focusStart": 0,
-      "rootId": "20230428153709-hioyy5l",
-      "scrollTop": 0,
-      "startId": "20230428153709-sc7nv54"
+    "20221223215557-o6gfsoy": {
+      "endId": "20221223220757-67tsme7",
+      "focusEnd": 20,
+      "focusId": "20230219085352-0sgkiz2",
+      "focusStart": 20,
+      "rootId": "20221223215557-o6gfsoy",
+      "scrollTop": 226,
+      "startId": "20221223215557-glo2lx8"
     },
     "20230429114837-70asb4j": {
       "endId": "20230429114837-uavwo4u",
-      "focusEnd": 0,
-      "focusId": "20230429114837-3y8u0uj",
-      "focusStart": 0,
+      "focusEnd": 23,
+      "focusId": "20230429114837-z07wqvi",
+      "focusStart": 23,
       "rootId": "20230429114837-70asb4j",
       "scrollTop": 0,
       "startId": "20230429114837-3y8u0uj"
     },
-    "20240113102857-c63dmo5": {
-      "endId": "20250114215221-sl97cs4",
-      "focusEnd": 0,
-      "focusId": "20240113102857-aof1w7f",
-      "focusStart": 0,
-      "rootId": "20240113102857-c63dmo5",
-      "scrollTop": 0,
-      "startId": "20240113102857-aof1w7f"
+    "20251009102118-ov7p86j": {
+      "endId": "20251012163400-5894i0x",
+      "focusEnd": 6,
+      "focusId": "20251012184817-zo96whp",
+      "focusStart": 6,
+      "rootId": "20251009102118-ov7p86j",
+      "scrollTop": 3524,
+      "startId": "20251009102119-bk79nfo"
     },
-    "20251007193707-lmowos4": {
-      "endId": "20251007193708-cbjwqxo",
+    "20251015131612-yw7vknm": {
+      "endId": "20251015131626-1kjnrt9",
       "focusEnd": 0,
-      "focusId": "20251007193708-cbjwqxo",
+      "focusId": "20251015131626-1kjnrt9",
       "focusStart": 0,
-      "rootId": "20251007193707-lmowos4",
+      "rootId": "20251015131612-yw7vknm",
       "scrollTop": 0,
-      "startId": "20251007193708-cbjwqxo"
-    },
-    "20251007193801-53839s5": {
-      "endId": "20251007193802-tnajms2",
-      "focusEnd": 0,
-      "focusId": "20251007193802-tnajms2",
-      "focusStart": 0,
-      "rootId": "20251007193801-53839s5",
-      "scrollTop": 0,
-      "startId": "20251007193802-tnajms2"
-    },
-    "20251007211011-ho811rj": {
-      "endId": "20251007215916-ap84bak",
-      "rootId": "20251007211011-ho811rj",
-      "scrollTop": 0,
-      "startId": "20251007215916-ap84bak"
+      "startId": "20251015131612-ew4z7pw"
     }
   },
   "local-filespaths": [
     {
       "notebookId": "20251009102117-xr53nsl",
       "openPaths": [
-        "/20251009102118-ov7p86j.sy"
-      ]
-    },
-    {
-      "notebookId": "20251007205919-795bxin",
-      "openPaths": [
-        "/20251007211011-ho811rj.sy"
+        "/20251015131612-yw7vknm.sy"
       ]
     }
   ],
   "local-fontstyles": [
+    "clear​undefined",
     "backgroundColor​var(--b3-font-background1)",
     "color​",
     "style1​var(--b3-card-error-background)​var(--b3-card-error-color)",
     "color​var(--b3-font-color4)",
     "style1​var(--b3-card-success-background)​var(--b3-card-success-color)",
     "style1​var(--b3-card-warning-background)​var(--b3-card-warning-color)",
-    "color​var(--b3-font-color7)",
-    "backgroundColor​var(--b3-font-background8)"
+    "color​var(--b3-font-color7)"
   ],
   "local-plugin-docks": {
     "siyuan-newledge": {},
     "siyuan-steve-tools": {}
+  },
+  "local-searchkeys": {
+    "col": "",
+    "colTab": "",
+    "keys": [
+      "闪卡"
+    ],
+    "layout": 0,
+    "layoutTab": 0,
+    "replaceKeys": [],
+    "row": "",
+    "rowTab": ""
   }
 }
