@@ -2,16 +2,25 @@
   {
     "rootID": "20251009102118-ov7p86j",
     "icon": "1f427",
-    "title": "八股"
+    "title": "八股",
+    "viewedAt": 1762606447,
+    "closedAt": 0,
+    "openAt": 1762606447
   },
   {
     "rootID": "20251015131612-yw7vknm",
     "icon": "",
-    "title": "大模型相关的手撕"
+    "title": "大模型相关的手撕",
+    "viewedAt": 1762606417,
+    "closedAt": 1762606418,
+    "openAt": 1762606417
   },
   {
     "rootID": "20251007211011-ho811rj",
     "icon": "",
-    "title": "dida"
+    "title": "dida",
+    "viewedAt": 0,
+    "closedAt": 0,
+    "openAt": 0
   }
 ]

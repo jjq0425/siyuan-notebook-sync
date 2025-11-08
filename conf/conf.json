@@ -265,8 +265,7 @@
                 {
                   "children": [
                     {
-                      "active": true,
-                      "activeTime": "1760541763982",
+                      "activeTime": "1762606434470",
                       "children": {
                         "action": "cb-get-scroll",
                         "blockId": "20251009102118-ov7p86j",
@@ -281,22 +280,8 @@
                       "title": "八股"
                     },
                     {
-                      "activeTime": "1760541763440",
-                      "children": {
-                        "action": "cb-get-scroll",
-                        "blockId": "20251015131612-yw7vknm",
-                        "instance": "Editor",
-                        "mode": "wysiwyg",
-                        "notebookId": "20251009102117-xr53nsl",
-                        "rootId": "20251015131612-yw7vknm"
-                      },
-                      "docIcon": "",
-                      "instance": "Tab",
-                      "pin": false,
-                      "title": "大模型相关的手撕"
-                    },
-                    {
-                      "activeTime": "1760281235676",
+                      "active": true,
+                      "activeTime": "1762606446999",
                       "children": {
                         "customModelData": {
                           "cardType": "all",
@@ -492,19 +477,18 @@
   "readonly": false,
   "localIPs": [
     "127.0.0.1",
+    "192.168.42.78",
     "192.168.219.1",
     "192.168.203.1",
-    "10.10.10.90",
-    "10.7.58.13",
+    "10.10.10.32",
+    "10.7.180.38",
     "169.254.233.151",
-    "169.254.69.251",
-    "169.254.96.51",
     "169.254.50.126",
     "[::1]",
     "[240c:c001:1015:db6e:5a14:edd6:9f5f:d8ff]",
-    "[240c:c001:1015:db6e:14e6:ba31:e2f1:b5e5]",
+    "[240c:c001:1015:db6e:5c56:667c:4aad:3006]",
+    "[fe80::b8f:904a:3f67:7e80]",
     "[fe80::cb6d:3065:5d96:9ae5]",
-    "[fe80::b52b:dcc5:5b3c:d6b0]",
     "[fe80::440a:d4f3:326e:fbbe]",
     "[fe80::5f52:3fb3:1f77:5a31]",
     "[fe80::c6a0:14af:581d:83e2]",
@@ -515,7 +499,7 @@
   "system": {
     "id": "430d41c5-ab02-4a36-8d34-45884d58f23d",
     "name": "jjq",
-    "kernelVersion": "3.3.4",
+    "kernelVersion": "3.3.6",
     "os": "windows",
     "osPlatform": "Microsoft Windows 11 Home China",
     "container": "std",
@@ -926,20 +910,20 @@
           "default": "⌘-"
         },
         "insertColumnLeft": {
-          "custom": "⇧⌘L",
-          "default": "⇧⌘L"
+          "custom": "",
+          "default": ""
         },
         "insertColumnRight": {
-          "custom": "⇧⌘R",
-          "default": "⇧⌘R"
+          "custom": "",
+          "default": ""
         },
         "insertRowAbove": {
-          "custom": "⇧⌘T",
-          "default": "⇧⌘T"
+          "custom": "",
+          "default": ""
         },
         "insertRowBelow": {
-          "custom": "⇧⌘D",
-          "default": "⇧⌘D"
+          "custom": "",
+          "default": ""
         },
         "moveToDown": {
           "custom": "⌥⌘B",
@@ -1124,6 +1108,10 @@
         "custom": "⌥2",
         "default": "⌥2"
       },
+      "recentClosed": {
+        "custom": "⇧⌘T",
+        "default": "⇧⌘T"
+      },
       "recentDocs": {
         "custom": "⌘E",
         "default": "⌘E"
@@ -1191,6 +1179,30 @@
       "unsplitAll": {
         "custom": "",
         "default": ""
+      }
+    },
+    "plugin": {
+      "sy-tomato-plugin": {
+        "tomato settings 2025-5-27 14:02:33": {
+          "custom": "⌘;",
+          "default": "⌘;"
+        },
+        "刷新虚拟引用 2025-5-12 19:34:22": {
+          "custom": "⌥⌦",
+          "default": "⌥⌦"
+        },
+        "整理assets下的图片视频音频 2025-5-12 19:34:26": {
+          "custom": "⌥⇧⌘F9",
+          "default": "⌥⇧⌘F9"
+        },
+        "突出定位文档 2025-5-12 19:34:24": {
+          "custom": "⌥↩",
+          "default": "⌥↩"
+        },
+        "间隔重复 2025-5-12 19:34:21": {
+          "custom": "⌥⌫",
+          "default": "⌥⌫"
+        }
       }
     }
   },
@@ -1287,7 +1299,7 @@
       "apiTemperature": 1,
       "apiMaxContexts": 7,
       "apiBaseURL": "https://api.openai.com/v1",
-      "apiUserAgent": "SiYuan/3.3.4 std/windows",
+      "apiUserAgent": "SiYuan/3.3.6 std/windows",
       "apiProvider": "OpenAI",
       "apiVersion": ""
     }
@@ -1299,9 +1311,9 @@
   "stat": {
     "treeCount": 3,
     "cTreeCount": 100,
-    "blockCount": 422,
+    "blockCount": 655,
     "cBlockCount": 5000,
-    "dataSize": 20041617,
+    "dataSize": 20085661,
     "cDataSize": 104857600,
     "assetsSize": 6858691,
     "cAssetsSize": 104857600
